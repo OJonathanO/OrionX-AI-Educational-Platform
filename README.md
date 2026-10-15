@@ -4,29 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Problem Statement](#problem-statement)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technology Stack](#technology-stack)
-- [Architecture](#architecture)
-- [RAG Workflow](#rag-workflow)
-- [Document Ingestion](#document-ingestion)
-- [Database Design](#database-design)
-- [Getting Started](#getting-started)
-- [LLM Provider Configuration](#llm-provider-configuration)
-- [Document Ingestion Guide](#document-ingestion-guide)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Docker](#docker)
-- [Deployment](#deployment)
-- [Known Limitations](#known-limitations)
-- [Future Enhancements](#future-enhancements)
-- [License & Acknowledgments](#license--acknowledgments)
-
----
-
 ## Problem Statement
 
 Traditional online learning platforms deliver content passively — students read, watch, and hope they retain the information. There is no intelligent intermediary that can:
