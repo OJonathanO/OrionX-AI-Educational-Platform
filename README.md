@@ -66,19 +66,6 @@ The **OrionX : AI Educational Platform** solves these problems by leveraging **R
 
 ---
 
-## Screenshots
-
-> **Placeholder** — Add screenshots of the platform here once available.
-
-| Dashboard | Chat Interface | Documents |
-|-----------|---------------|-----------|
-| ![Dashboard](docs/images/dashboard.png) | ![Chat](docs/images/chat.png) | ![Documents](docs/images/documents.png) |
-
-| Analytics | Quiz Center | Admin |
-|-----------|-------------|-------|
-| ![Analytics](docs/images/analytics.png) | ![Quiz](docs/images/quiz.png) | ![Admin](docs/images/admin.png) |
-
----
 
 ## Technology Stack
 
